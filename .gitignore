@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+db.sqlite3
+.DS_Store
+mysite_env/
+*.log
+*.pot
+*.pyc
+*.pyo
+*.tmp
+*.swp
